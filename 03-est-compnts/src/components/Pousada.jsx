@@ -14,7 +14,7 @@ function Pousada() {
       valordiaria = 80
     }
     let tb = dias * valordiaria;
-    let disconto = tb * 25/100;
+    let disconto = tb * 25 / 100;
     let multa = 150;
     let total = tb - disconto + multa;
 

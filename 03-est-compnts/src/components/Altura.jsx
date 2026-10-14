@@ -25,7 +25,7 @@ function Altura() {
 
   return (
     <div className="Peso ideal">
-      <h2>Venha descobrir seu peso ideal</h2>
+      <h2>seu peso ideal</h2>
       <button onClick={calcularPeso}>IMC</button>
       {resultado && <p>{resultado}</p>}
     </div>
