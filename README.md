@@ -17,7 +17,7 @@
 
 Este repositório foi criado para armazenar, organizar e documentar todos os desafios, listas de exercícios e projetos práticos desenvolvidos durante as aulas de **Desenvolvimento Front-end** no **SENAI Florianópolis / SC**.
 
-> 👨‍🏫 **Professor responsável:** [Nome do Professor Aqui]  
+> 👨‍🏫 **Professor responsável:** [Rafaell Lindermann]  
 > 📍 **Local:** SENAI CTAI - Florianópolis / SC  
 > 💡 **Objetivo:** Construir uma base sólida no ecossistema Web Front-end, do HTML básico ao JavaScript dinâmico.
 
